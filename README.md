@@ -4,7 +4,7 @@
 
 This is the Interactive Kalkulus Roadmap create for the KLKS Community in order to stay up to date with Kalkulus developments.
 
-## Sections ## (Projects):
+## Sections (Projects):
 
 1. The Hub
 
