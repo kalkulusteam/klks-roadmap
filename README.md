@@ -1,15 +1,15 @@
 # KLKS-Roadmap
 
-## Public Development Table 2019
+## Public Development Table 2019 ##
 
 This is the Interactive Kalkulus Roadmap create for the KLKS Community in order to stay up to date with Kalkulus developments.
 
-## Sections (Projects):
+## Sections ## (Projects):
 
-1.The Hub
+1. The Hub
 
-2.KLKS dApps
+2. KLKS dApps
 
-3.KLKS Pay (Payment Gateway)
+3. KLKS Pay (Payment Gateway)
 
-4.KLKS Marketplace
+4. KLKS Marketplace
