@@ -12,4 +12,3 @@ This is the Interactive Kalkulus Roadmap create for the KLKS Community in order 
 
 3. KLKS Pay (Payment Gateway)
 
-4. KLKS Marketplace
